@@ -1,96 +1,88 @@
-Nigeria Health Analysis (Power BI)
-📌 About This Project
+# 🏥 Nigerian Health Data Analysis Dashboard  
 
-As part of the Jadons Hub Power BI Mentorship Program, I was tasked with analyzing patient disease records from a Nigerian hospital.
+This project was built as part of a data analytics mentorship program.  
+I was tasked with analyzing hospital patient records and turning raw health data into meaningful insights using Microsoft Power BI.
 
-The goal was simple but important:
-to uncover meaningful health insights from raw patient data and present them clearly through an interactive dashboard.
+Instead of just building charts, the goal was to tell a clear story with the data.
 
-Using Power BI, I transformed over 2,000 patient records into a structured, insight-driven health analysis dashboard that highlights disease patterns, mortality rates, demographic distribution and geographic trends across Nigerian states.
+---
 
-🎯 What This Project Explores
+## 📌 Project Objectives
 
-This dashboard answers key public health questions such as:
+The analysis focused on answering key public health questions:
 
-Which states record the highest incidence of Malaria and Cholera?
+- What is the incidence of major diseases like Malaria and Cholera?
+- What was the death rate in 2010 compared to 2018?
+- Which settlement recorded the highest disease occurrence?
+- Which age groups are most vulnerable?
+- How can these insights support better hospital decision-making?
 
-Which state has the highest Cholera mortality rate?
+---
 
-Are disease cases more common in rural or urban settlements?
+## 📊 Dataset Overview
 
-Which diseases had the highest death rate in 2010 compared to 2018?
+The dataset contains anonymized hospital patient records.  
+Each row represents one individual case.
 
-In which year did Meningitis peak?
+### It includes:
 
-Which age group is most affected by Diarrhoea?
+- **Disease Type**
+- **Age Group**
+- **Health Status** (Alive / Dead)
+- **Report Year**
+- **Settlement**
+- **Confirmation Status**
 
-📊 Key Insights
+---
 
-After analyzing the dataset, here are some notable findings:
+## 📸 Dashboard Preview
 
-Certain northern states show significantly higher Cholera mortality rates.
+![Dashboard Preview](dashboard.png)
 
-Urban settlements account for slightly more reported cases than rural areas.
+---
 
-Meningitis cases peaked in 2015.
+## 🔎 Key Insights
 
-Young adults appear to be the most affected age group for Diarrhoea.
+From the analysis, a few important patterns stood out:
 
-Mortality rates vary significantly by disease, highlighting the need for targeted interventions.
+- Certain diseases showed clear yearly spikes.
+- Mortality rates differed significantly between 2010 and 2018.
+- Some settlements consistently recorded higher case counts.
+- Specific age groups were more susceptible to particular diseases.
 
-💡 Recommendations
+---
 
-Based on the analysis, I would recommend:
+## 💡 Recommendations
 
-Strengthening Cholera response programs in high-mortality states.
+Based on the findings, I recommend:
 
-Increasing public health awareness campaigns targeted at vulnerable age groups.
+- Increasing awareness campaigns in high-incidence settlements.
+- Allocating more medical resources during peak disease periods.
+- Designing age-targeted prevention programs.
+- Strengthening early diagnosis and confirmation processes.
 
-Enhancing disease surveillance systems to detect spikes earlier.
+---
 
-Improving resource allocation during peak disease years.
+## 🚀 Why This Project Matters
 
-🛠 Tools & Skills Applied
+This project goes beyond visualization.
 
-Power BI (Data Modeling & Dashboard Design)
+It demonstrates how data can:
 
-DAX for calculated measures (Mortality Rate, Case Counts)
+- Support public health strategy
+- Improve resource allocation
+- Identify vulnerable populations
+- Reduce mortality through informed decisions
 
-Data Cleaning & Transformation
+---
 
-Analytical storytelling & visualization design
+## 🛠 Tools Used
 
-📂 Dataset Overview
+- Microsoft Power BI  
+- Data Cleaning & Transformation  
+- DAX for calculated measures  
+- Data Storytelling & Dashboard Design  
 
-The dataset contains 2,247 reported patient cases including:
+---
 
-State
-
-Settlement type (Rural/Urban)
-
-Disease type
-
-Age group
-
-Health status (Alive/Dead)
-
-Report year
-
-Confirmation status
-
-Each row represents an individual patient record.
-
-📸 Dashboard Preview
-
-![Dashboard Preview](Nigerian%20Health%20Dashboard.png)
-🚀 Why This Project Matters
-
-This project goes beyond building charts.
-It demonstrates how data can be used to support public health decisions, allocate resources effectively, and identify vulnerable populations.
-
-It reflects my growing interest in applying data analytics to real-world impact, particularly in health and large-scale systems.
-
-👤 Author
-
-Isaac Mbagwu
-Mechatronics Engineer | Data Analyst | Smart Manufacturing | Health Analytics & Data-Driven Systems
+If you found this project interesting, feel free to connect with me or share feedback.
