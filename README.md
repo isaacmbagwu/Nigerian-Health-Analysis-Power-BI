@@ -35,6 +35,12 @@ Each row represents one individual case.
 
 ---
 
+## 🔗 Access Full Project Files
+
+Due to file size limitations on GitHub, the complete project files are hosted on Google Drive.
+
+- 📄 **Dataset** – [Access Here](https://drive.google.com/drive/folders/1ILgTTPpJ_ZLjq_azaLyV9Wx9XnnxFk0J)
+
 ## 📸 Dashboard Preview
 
 ![Dashboard Preview](Nigerian%20Health%20Dashboard.png)
