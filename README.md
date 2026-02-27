@@ -37,7 +37,7 @@ Each row represents one individual case.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Nigerian%20Health%20Dashboard.png)
 
 ---
 
