@@ -82,7 +82,7 @@ Each row represents an individual patient record.
 
 📸 Dashboard Preview
 
-![Dashboard Preview](Nigerian%20Health%20Dashboard%20Dashboard.PNG)
+![Dashboard Preview](Nigerian%20Health%20Dashboard%20Dashboard.png)
 🚀 Why This Project Matters
 
 This project goes beyond building charts.
